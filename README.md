@@ -1,9 +1,9 @@
-# pumpkin
+# Jackfruit
 Food Ordering System
 
 ## About
 
-Pumpkin is a Food ordering system.
+JackFruit is a Food ordering system.
 
 
 Hotels can SignUp/Login, edit their profile/details and create/edit items that they provide.They also have the option to close themselves or make an item unavailable or to opt in or out of delivery services. Hotels can change order and payment status of their pending orders.
